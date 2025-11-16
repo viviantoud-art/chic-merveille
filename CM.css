@@ -6,13 +6,13 @@ h1{
     font-style: italic;
     border-style: inset;
     text-align: center;
-    font-size: 6.5rem;
+    font-size: 6rem;
     text-shadow: 5px -5px 2px #777;
 }
 
 h2{
   color:blue;
-   font-size:2.5rem;
+   font-size:2rem;
 
    
     
@@ -55,3 +55,4 @@ h3{
     font-size:1.5rem;
 
 }
+
